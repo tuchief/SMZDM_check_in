@@ -13,3 +13,6 @@ https://chromedriver.storage.googleapis.com/index.html
 
 ## 使用方法
 在对应的操作系统上配置定时任务来运行 `python main.py`
+
+## 效果预览
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fop166qxxrj30yi1pc1l3.jpg)
