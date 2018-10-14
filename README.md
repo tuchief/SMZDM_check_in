@@ -6,6 +6,7 @@
 
 ## chromedriver下载地址
 https://chromedriver.storage.googleapis.com/index.html
+https://npm.taobao.org/mirrors/chromedriver
 
 ## 安装
 1、install python3 
