@@ -5,7 +5,7 @@
 2、签到成功后通过邮件进行提醒当前签到的天数
 
 ## chromedriver下载地址
-https://chromedriver.storage.googleapis.com/index.html
+https://chromedriver.storage.googleapis.com/index.html  
 https://npm.taobao.org/mirrors/chromedriver
 
 ## 安装
